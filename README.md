@@ -25,7 +25,7 @@ A simple Python script that reads a .txt file and counts how many times each wor
    git clone https://github.com/Muskan1923/word-frequency-counter.git
    cd word-frequency-counter
 ### Usage
-See USAGE.md for detailed usage instructions and example output.
+See [USAGE.md](USAGE.md) for detailed usage instructions and example output.
 
 ## 📄 License
 
